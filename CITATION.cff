@@ -6,7 +6,7 @@ authors:
   - family-names: Stockhammer
     given-names: Johannes
     orcid: "https://orcid.org/0009-0008-4263-5369"
-repository-code: "https://github.com/josto-me/skateboard-power-controller"
+repository-code: "https://github.com/jstockhammer/skateboard-power-controller"
 url: "https://josto.me"
 doi: "10.5281/zenodo.22991114"
 version: "1.0.0"
